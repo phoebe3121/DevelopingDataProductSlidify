@@ -42,12 +42,14 @@ IncomeCutTex <- c("<$10K", "$10K-20K", "$20K-30K", "$30K-40K", "$40K-50K", "$50K
 
 ---
 ## Visualization
+See more visualization on the app: https://phoebe3121.shinyapps.io/DevelopingDataProduct/
 Visualize the 2009 unemployment rate across the country.
 
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3-1.png)
 
 ---
 ## Visualization
+See more visualization on the app:https://phoebe3121.shinyapps.io/DevelopingDataProduct/
 Visualize 2009 Poverty Rate Across the Country
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4-1.png)
