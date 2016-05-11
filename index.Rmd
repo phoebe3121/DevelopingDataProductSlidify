@@ -74,7 +74,8 @@ IncomeCutTex <- c("<$10K","$10K-20K","$20K-30K","$30K-40K","$40K-50K","$50K-60K"
 
 ---
 ## Visualization
-See more visualization on the app: https://phoebe3121.shinyapps.io/DevelopingDataProduct/
+See more visualization on the app: https://phoebe3121.shinyapps.io/DevelopingDataProduct/.
+
 Visualize the 2009 unemployment rate across the country.
 
 ```{r, echo=F, fig.width=20, fig.height=10, message=F}
@@ -146,7 +147,8 @@ mapUnemp = PovertyMap(state="all", metric="unempColors", mydf=mydf, legendTex=Un
 
 ---
 ## Visualization
-See more visualization on the app:https://phoebe3121.shinyapps.io/DevelopingDataProduct/
+See more visualization on the app: https://phoebe3121.shinyapps.io/DevelopingDataProduct/.
+
 Visualize 2009 Poverty Rate Across the Country
 
 ```{r, echo=F, message=F, fig.width=20, fig.height=10}
